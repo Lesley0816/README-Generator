@@ -18,11 +18,8 @@ The generated README.md file includes the following sections:
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
+- [Prerequisites](#Prerequisites)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
 
 ## Installation
 - Clone the Repository: Download the project files to your local machine.
